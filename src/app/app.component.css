@@ -1,0 +1,45 @@
+
+.separated{
+	display: inline-block;
+	margin-right: 20px;
+
+}
+
+header ul li{
+	cursor: pointer;
+}
+header ul{
+	margin: 0;
+}
+.container{
+	overflow: hidden;
+	width: 90%;
+	margin-left: 5%;
+}
+.container2{
+	overflow: hidden;
+	border-radius: 50%;
+	margin-left: 5%;
+	width: 68px;
+}
+.container2 header ul{
+	padding: 0;
+	text-align: center;
+}
+
+header{
+	background: rgb(16, 108, 200);
+    color: white;
+    display: block;
+    position: relative;
+    overflow: hidden;
+
+    padding: 20px 0;
+}
+.hidden{
+	display: none;
+}
+.center{
+	padding: 0;
+    text-align: center;
+}
